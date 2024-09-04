@@ -864,11 +864,15 @@ header.header-light #mainmenu a {
 
 #mainmenu li li a:hover,
 #mainmenu ul li:hover>a {
-  color: #fff;
+  color:var(--secondary-color);
+}
+
+#mainmenu a:hover{
+  color:var(--secondary-color);
 }
 
 #mainmenu li a.active{
-  color:var(--secondary-color) !important;
+  color:#fff;
 }
 
 #mainmenu li ul {
@@ -20911,4 +20915,18 @@ img {
 
 .owl-carousel .item{
   text-align: center;
+}
+
+.owl-theme .owl-dots{
+  position: relative;
+  top: -15px;
+}
+
+
+.owl-theme .owl-nav [class*=owl-]{
+  display: none;
+}
+
+.gamingDevicesInfo{
+  margin-top: 15px;
 }
