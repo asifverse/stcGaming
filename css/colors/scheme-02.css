@@ -1,13 +1,13 @@
 * {
-  --primary-color: #ff375e;
-  --primary-color-rgb: 229, 18, 132;
-  --secondary-color: #ff375e;
+  --primary-color: #FF6A39;
+  --primary-color-rgb: 100, 42, 22;
+  --secondary-color: #FF6A39;
   --secondary-color-rgb: 87, 90, 255;
   --tertiary-color: #4f008c;
   --tertiary-color-rgb: rgba(9, 125, 255, 1.0);
-  --bg-dark-1: #2C292D;
-  --bg-dark-1-rgb: 44, 41, 45;
-  --bg-dark-2: #322e33;
+  --bg-dark-1: #4f008c;
+  --bg-dark-1-rgb: 31, 0, 55;
+  --bg-dark-2: #4f008c;
   --bg-dark-3: #383339;
   --dark-body-font-color: rgba(255,255,255,.8);
   --gradient-text: 45deg,#ffffff 0%, #aaaaaa 100%;
