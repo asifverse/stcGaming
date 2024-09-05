@@ -8,11 +8,9 @@
   --bg-dark-1: #4f008c;
   --bg-dark-1-rgb: 31, 0, 55;
   --bg-dark-2: #4f008c;
-  --bg-dark-3: #383339;
-  --dark-body-font-color: rgba(255,255,255,.8);
+  --bg-dark-3: #600092;
+  --dark-body-font-color: #fff;
   --gradient-text: 45deg,#ffffff 0%, #aaaaaa 100%;
-  --title-font: "Saira", Helvetica, Arial, sans-serif;
-  --body-font: "Saira", Helvetica, Arial, sans-serif;
   --body-font-weight: 300;
 
 }
