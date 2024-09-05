@@ -794,7 +794,6 @@ header.header-light #mainmenu a {
   color: #ffffff;
   display: block;
   font-size: 10px;
-  text-transform: uppercase;
   line-height: 14px;
   border-bottom: solid 2px #ffffff;
 }
@@ -887,8 +886,7 @@ header.header-light #mainmenu a {
 }
 
 #mainmenu li a.new:before{
-  content: "New";
-  text-transform: uppercase;  
+  content: "New"; 
   padding: 2px 5px;
   background: var(--primary-color);
   font-size: 12px;
@@ -1998,7 +1996,6 @@ header.header-light .logo-2 {
 .blog-list .btn-more {
   padding: 3px 25px 3px 25px;
   color: #111;
-  text-transform: uppercase;
   text-decoration: none;
   font-weight: 700;
   float: right;
@@ -2218,7 +2215,6 @@ header.header-light .logo-2 {
 }
 
 .de-blog-c1 .d-date .d-month{
-  text-transform: uppercase;
   background: var(--primary-color);
   font-size: 16px;
   font-family: var(--title-font);
@@ -2392,7 +2388,6 @@ header.header-light .logo-2 {
 }
 
 .blog-carousel .post-date {
-  text-transform: uppercase;
   letter-spacing: 3px;
   font-size: 11px;
   color: #888;
@@ -2437,7 +2432,6 @@ header.header-light .logo-2 {
 
 .post-text .tags {
   font-size: 10px;
-  text-transform: uppercase;
 }
 
 .p-tagline {
@@ -2463,7 +2457,6 @@ header.header-light .logo-2 {
   letter-spacing: 2px;
   line-height: 10px;
   padding: 7px 10px 6px 10px;
-  text-transform: uppercase;
   margin-bottom: 5px;
 }
 
@@ -2478,7 +2471,6 @@ header.header-light .logo-2 {
 }
 
 .post-text .p-date {
-  text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 10px;
   font-weight: 500;
@@ -2649,7 +2641,6 @@ header.header-light .logo-2 {
 .post-image .d-tagline span{
   font-size: 12px;
   color:#ffffff;
-  text-transform: uppercase;
   display: inline-block;
   background: rgba(0, 0, 0, .25);
   margin-left: 5px;
@@ -3573,7 +3564,6 @@ a.btn-big {
   letter-spacing: 1px;
   line-height: normal;
   font-weight: bold;
-  text-transform: uppercase;
   border: solid 1px #fff;
   padding: 10px 30px 10px 30px;
 }
@@ -3615,7 +3605,6 @@ a.btn-fx {
   letter-spacing: 1px;
   line-height: normal;
   font-weight: bold;
-  text-transform: uppercase;
   border: solid 1px #fff;
   padding: 10px 30px 10px 30px;
 }
@@ -3658,7 +3647,6 @@ a.btn-slider {
   color: #fff;
   line-height: normal;
   text-decoration: none;
-  text-transform: uppercase;
   border: solid 2px #fff;
   padding: 10px 30px 10px 30px;
   border-radius: 60px;
@@ -3699,7 +3687,6 @@ a.btn-dark.btn-id {
 .btn-main.btn-small {
   padding: 5px 20px 5px 20px;
   font-weight: bold;
-  text-transform: uppercase;
 }
 
 .btn-fx.btn-main {
@@ -3761,7 +3748,6 @@ a.btn-line,
   padding: 3px 20px 2px 20px;
   font-size: 14px;
   border: none;
-  text-transform: uppercase;
   border-radius:5px;
   -moz-border-radius:5px;
   -webkit-border-radius:5px;
@@ -3883,7 +3869,6 @@ a.btn-border {
   text-decoration: none;
   padding: 10px 30px;
   min-width: 120px;
-  text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 2px;
 }
@@ -4064,7 +4049,6 @@ a.btn-lg{
 
 .de_count span {
   font-size: 12px;
-  text-transform: uppercase;
 }
 
 .de_count i {
@@ -4481,7 +4465,6 @@ h1.slider-title{
 h1.slider-title.s2{
   font-size: 64px;
   letter-spacing: -2px;
-  text-transform: none !important;
 }
 
 h1 .label {
@@ -4511,7 +4494,6 @@ h1.s1 {
 h1.s2 {
   display: inline-block;
   letter-spacing: 2px;
-  text-transform: uppercase;
 }
 
 h1.s2 .c1 {
@@ -4544,7 +4526,6 @@ h1.s2 .c2 {
   font-size: 140px;
   padding-bottom: 10px;
   margin-top: 10px;
-  text-transform: uppercase;
   font-weight: bold;
 }
 
@@ -4617,7 +4598,6 @@ h1.ultra-big span.text-line{
 h1.very-big-2 {
   font-size: 90px;
   letter-spacing: 25px;
-  text-transform: uppercase;
   font-weight: bold;
 }
 
@@ -4738,7 +4718,6 @@ h5.title {
 
 h6.new:before{
   content: "New";
-  text-transform: uppercase;  
   padding: 4px 5px 2px 5px;
   background: var(--primary-color);
   font-size: 12px;
@@ -5037,7 +5016,6 @@ h6 {
 h4.s1 {
   font-size: 12px;
   letter-spacing: 20px;
-  text-transform: uppercase;
   font-weight: 500;
 }
 
@@ -8074,7 +8052,6 @@ i.font60 {
 }
 
 .de_nav h3{
-  text-transform: uppercase;
   font-size: 24px;
   line-height: 1em;
   margin-bottom: 0;
@@ -8236,7 +8213,6 @@ i.font60 {
   margin-top: 20px;
   font-family: var(--body-font);
   font-size: 14px;
-  text-transform: uppercase;
   letter-spacing: 2px;
 }
 
@@ -8287,7 +8263,6 @@ i.font60 {
   padding: 10px 20px 10px 20px;
   margin: 5px;
   font-family: var(--body-font);
-  text-transform: uppercase;
   letter-spacing: 5px;
 }
 
@@ -10775,7 +10750,6 @@ a.de-card:hover {
   display: block;
   font-size: 12px;
   font-weight: bold;
-  text-transform: uppercase;
   letter-spacing: 5px;
 }
 
@@ -11124,7 +11098,6 @@ a:hover,
   margin-top: 0;
   font-size: 18px;
   letter-spacing: 3px;
-  text-transform: uppercase;
 }
 
 .project-info h4 {
@@ -11642,7 +11615,6 @@ footer .widget{
   text-align: center;
   width: 50px;
   font-size: 10px;
-  text-transform: uppercase;
 }
 
 .widget-post li:hover>.post-date {
@@ -12069,7 +12041,6 @@ i.bg-color-secondary {
   font-family: var(--title-font);
   color: var(--primary-color);
   user-select: none;
-  text-transform:uppercase;
    color: transparent;
   -webkit-text-stroke: 1px rgba(255, 255, 255, .75);
 }
@@ -12278,7 +12249,6 @@ i.bg-color-secondary {
   color: #ffffff;
   font-family: var(--title-font);
   font-weight:bold;
-  text-transform: uppercase;
   background: var(--primary-color);
   border-radius:5px;
   -moz-border-radius:5px;
@@ -12308,7 +12278,6 @@ i.bg-color-secondary {
 }
 
 .de-pricing-s1 h3{
-  text-transform: uppercase;
   display: block;
   font-size: 36px;
   text-align: center;
@@ -14387,7 +14356,6 @@ a.btn-main:hover,
 
 .box-url p.tld-subtitle {
   font-weight: 500;
-  text-transform: uppercase;
   line-height: 1em;
   font-size: 10px;
 }
@@ -15498,7 +15466,6 @@ section.no-padding {
 
 .teaser.style-2 {
   letter-spacing: 20px;
-  text-transform: uppercase;
 }
 
 .teaser.style-3 {
@@ -15507,7 +15474,6 @@ section.no-padding {
 
 .teaser.style-4 {
   letter-spacing: 5px;
-  text-transform: uppercase;
   font-size: 14px;
 }
 
@@ -16773,7 +16739,6 @@ a.read_more i {
 .style-2 .date-box .m {
   font-family: var(--body-font);
   font-size: 13px;
-  text-transform: uppercase;
   letter-spacing: 8px;
   margin-left: 8px;
 }
@@ -17249,7 +17214,6 @@ a.read_more i {
   vertical-align: middle;
   color: #fff;
   font-weight: bold;
-  text-transform: uppercase;
 }
 
 .de-image-hover:hover .dih-overlay {
@@ -18076,7 +18040,6 @@ a.read_more i {
 
 .de-event-item .d-date span {
   display: block;
-  text-transform: uppercase;
   text-align: center;
   font-size: 20px;
 }
@@ -19025,7 +18988,6 @@ margin-bottom: 40px;
   color: #fff;
   line-height: normal;
   font-weight: 400;
-  text-transform: uppercase;
   letter-spacing: 6px;
 }
 
@@ -19129,7 +19091,6 @@ a.btn-slider:hover {
   border-radius: 6px;
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
-  text-transform: uppercase;
   font-size: 14px;
   font-weight: bold;
 }
@@ -19293,7 +19254,6 @@ a.btn-slider:hover {
   font-weight: 400;
   font-style: normal;
   line-height: 1.5em;
-  text-transform: uppercase;
   letter-spacing: 3px;
 }
 
@@ -20931,4 +20891,9 @@ img {
 
 .gamingDevicesInfo{
   margin-top: 15px;
+}
+
+.features i{
+  font-size: 5rem;
+  margin-bottom: 1rem;
 }
