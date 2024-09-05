@@ -1466,7 +1466,9 @@ section.no-bg,
 }
 
 .dark-scheme section {
-  background: var(--bg-dark-1);
+  /* background: var(--bg-dark-1); */
+  background: linear-gradient(264.71deg, #8736c4 2.11%, #4f008c 58.87%);
+
 }
 
 .no-bg {
@@ -13846,7 +13848,7 @@ body.dark-scheme::-webkit-scrollbar-track,
   border-radius:6px;
   -moz-border-radius:6px;
   -webkit-border-radius:6px;
-  background-color: var(--tertiary-color);
+  background-color: var(--primary-color);
 }
 
 .de-item:hover img{
